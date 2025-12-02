@@ -69,8 +69,7 @@ spring.datasource.password=TU_PASSWORD
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
 ```
-
-Ejecutar
+4. Ejecutar
 ```
 mvn spring-boot:run
 ```
